@@ -1,2 +1,4 @@
 # TZ_Fntastic_2
-Test Task 2 for Fnstastic
+ТЗ для Fntastic, задача 2. Выполнено на UE4 (4.26.2)
+
+
